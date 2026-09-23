@@ -12,6 +12,9 @@ Zion AI Warranty Tracker — hardware warranty & EOSL tracking with renewal aler
 - [zion-ai-contract-guardian](https://github.com/Zion-support/zion-ai-contract-guardian) — https://ziontechgroup.com/zion-ai-contract-guardian/
 - [zion-ai-quote-builder](https://github.com/Zion-support/zion-ai-quote-builder) — https://ziontechgroup.com/zion-ai-quote-builder/
 
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [MSP & Partner Ecosystem](https://github.com/Zion-support/zion-network/blob/main/network/msp-partner-ecosystem.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+
 ---
 🗂️ [Master directory — Zion App Network](https://github.com/Zion-support/zion-app-network) · Live hub: https://ziontechgroup.com/zion-app-network/ · Apps hub: https://ziontechgroup.com/zion-apps-hub/
 
