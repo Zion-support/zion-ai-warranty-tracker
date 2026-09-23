@@ -1,10 +1,16 @@
-# Zion AI Warranty Tracker
+# 🌐 Part of the Zion App Network
 
-Hardware warranty & EOSL tracking with renewal alerts.
+**Zion AI Warranty Tracker** is one of 533+ interconnected apps in the Zion Tech Group network.
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-field](https://github.com/Zion-support/zion-field)
-- Related: [zion-ai-warranty-lifecycle](https://github.com/Zion-support/zion-ai-warranty-lifecycle) · [warranty-lens](https://github.com/Zion-support/warranty-lens) · [contract-renewal-radar](https://github.com/Zion-support/contract-renewal-radar) · [zion-ai-rma-tracker](https://github.com/Zion-support/zion-ai-rma-tracker)
+- 🏠 [ziontechgroup.com](https://ziontechgroup.com)
+- 🗂️ [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
+- 📚 [Master Catalog](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- 📊 [Status](https://zion-support.github.io/zion-status/) · 💳 [Plans](https://zion-support.github.io/plans/) · 🧭 [Portal](https://zion-support.github.io/zion-portal/)
+- 📣 [App Network Showcase](https://ziontechgroup.com/app-network/)
+
+## Related apps
+- [Zion AI Warranty Lifecycle](https://github.com/Zion-support/zion-ai-warranty-lifecycle)
+- [Zion AI Spare Parts Finder](https://github.com/Zion-support/zion-ai-spare-parts-finder)
+- [Zion Field Parts](https://github.com/Zion-support/zion-field-parts)
 
 *Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
